@@ -1,0 +1,17 @@
+[2019-02-19 04:01:17][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:12]Class 'App\HttpController\Api\Base' not found
+[2019-02-19 04:03:00][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:12]Class 'App\HttpController\Api\Base' not found
+[2019-02-19 04:03:02][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:12]Class 'App\HttpController\Api\Base' not found
+[2019-02-19 04:03:04][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:12]Class 'App\HttpController\Api\Base' not found
+[2019-02-19 04:03:57][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:12]Class 'App\HttpController\Api\Base' not found
+[2019-02-19 04:04:01][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:12]Class 'App\HttpController\Api\Base' not found
+[2019-02-19 04:06:45][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:12]Class 'App\HttpController\Api\Base' not found
+[2019-02-19 04:07:45][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:11]Class 'App\HttpController\Api\Base' not found
+[2019-02-22 10:01:40][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:28]Too few arguments to function App\HttpController\Api\Index::test(), 0 passed in /home/wwwroot/swopro/esapi/vendor/easyswoole/http/src/AbstractInterface/Controller.php on line 106 and exactly 1 expected
+[2019-02-22 10:06:03][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:28]Too few arguments to function App\HttpController\Api\Index::test(), 0 passed in /home/wwwroot/swopro/esapi/vendor/easyswoole/http/src/AbstractInterface/Controller.php on line 106 and exactly 1 expected
+[2019-02-22 10:06:06][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:28]Too few arguments to function App\HttpController\Api\Index::test(), 0 passed in /home/wwwroot/swopro/esapi/vendor/easyswoole/http/src/AbstractInterface/Controller.php on line 106 and exactly 1 expected
+[2019-02-22 10:06:27][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:28]Too few arguments to function App\HttpController\Api\Index::test(), 0 passed in /home/wwwroot/swopro/esapi/vendor/easyswoole/http/src/AbstractInterface/Controller.php on line 106 and exactly 1 expected
+[2019-02-22 10:06:30][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Index.php][line:28]Too few arguments to function App\HttpController\Api\Index::test(), 0 passed in /home/wwwroot/swopro/esapi/vendor/easyswoole/http/src/AbstractInterface/Controller.php on line 106 and exactly 1 expected
+[2019-02-25 11:38:49][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Base.php][line:20]Class 'App\HttpController\Api\Redis' not found
+[2019-02-25 11:41:00][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Base.php][line:20]Class 'App\HttpController\Api\Redis' not found
+[2019-02-25 11:41:01][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Base.php][line:20]Class 'App\HttpController\Api\Redis' not found
+[2019-02-25 11:41:03][Exception][file:/home/wwwroot/swopro/esapi/App/HttpController/Api/Base.php][line:20]Class 'App\HttpController\Api\Redis' not found

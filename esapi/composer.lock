@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7909f6d2de5e246be077800aea9abe46",
+    "content-hash": "c22a9b57590d18a23d9d0518ff2f48ff",
     "packages": [
         {
             "name": "dragonmantank/cron-expression",
@@ -345,6 +345,58 @@
                 "swoole"
             ],
             "time": "2019-01-23T09:19:18+00:00"
+        },
+        {
+            "name": "easyswoole/mysqli",
+            "version": "1.1.12",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/easy-swoole/mysqli.git",
+                "reference": "2685d19dc59f65c1556ded3310707ad95b363b53"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/easy-swoole/mysqli/zipball/2685d19dc59f65c1556ded3310707ad95b363b53",
+                "reference": "2685d19dc59f65c1556ded3310707ad95b363b53",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://dl.laravel-china.org/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "easyswoole/spl": "^1.0"
+            },
+            "require-dev": {
+                "easyswoole/swoole-ide-helper": "dev-master"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "EasySwoole\\Mysqli\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "YF",
+                    "email": "291323003@qq.com"
+                }
+            ],
+            "description": "An efficient swoole framework",
+            "homepage": "https://www.easyswoole.com/",
+            "keywords": [
+                "async",
+                "easyswoole",
+                "framework",
+                "swoole"
+            ],
+            "time": "2019-01-26T03:46:32+00:00"
         },
         {
             "name": "easyswoole/socket",
@@ -691,6 +743,57 @@
                 "tokenizer"
             ],
             "time": "2018-03-21T22:21:57+00:00"
+        },
+        {
+            "name": "joshcam/mysqli-database-class",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ThingEngineer/PHP-MySQLi-Database-Class.git",
+                "reference": "43459aeaee2b98ef651da78f8a03ce22c23ebbeb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ThingEngineer/PHP-MySQLi-Database-Class/zipball/43459aeaee2b98ef651da78f8a03ce22c23ebbeb",
+                "reference": "43459aeaee2b98ef651da78f8a03ce22c23ebbeb",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://dl.laravel-china.org/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "MysqliDb.php",
+                    "dbObject.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Alexander V. Butenko",
+                    "email": "a.butenka@gmail.com",
+                    "homepage": "http://smarttechdo.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Josh Campbell",
+                    "email": "josh.lee.campbell@gmail.com",
+                    "homepage": "https://github.com/thingengineer",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP MySQL Wrapper and object mapper which utilizes MySQLi and prepared statements",
+            "time": "2018-10-11T10:30:56+00:00"
         },
         {
             "name": "nikic/fast-route",
@@ -1937,7 +2040,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "easyswoole/easyswoole": 20
+        "easyswoole/easyswoole": 20,
+        "joshcam/mysqli-database-class": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
